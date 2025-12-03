@@ -1,0 +1,4 @@
+/Consumers/Dashboard/venv
+/Producers/target
+**/__pycache__/
+**/*.pyc
